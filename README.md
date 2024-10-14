@@ -1,5 +1,3 @@
-//README.md
-
 # Grocery Store Management System
 
 This is a C-based Grocery Store Management System. The system allows users to log in, create an account, view available grocery items, search for specific items, and generate a bill for purchased items.
